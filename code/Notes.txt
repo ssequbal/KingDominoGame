@@ -1,0 +1,31 @@
+Classes:
+	GameSystem
+	RenderSystem	
+	Player
+	Domino
+	Tile (Tile,StartingTile,Square)
+	Grid
+	GridSquare
+
+Terrain:
+	Start 0
+	Farm 1
+	Forest 2
+	Water 3
+	Grass 4
+	Desert 5
+	Mine 6
+
+
+Display Settings:
+Changing Brightness
+Changing Contrast
+Changing Color Saturation
+
+Player Settings:
+Changing Color
+Changing User Name
+
+Tile is just a parent, Dominoes hold Squares, Starting Tile is the Starting Tile
+
+The Pick Dominnoes will be in a Panel so it will be easier to move around if we have 2/4 Players

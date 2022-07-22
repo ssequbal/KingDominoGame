@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\r\n\ \ \ \ Description\:\r\n\ \ \ \ \ \ \ \ The\ Square\ object\ that\ has\ a\ terrain\r\n
+comment1.params=terrain\ domino\ crown
+comment1.target=Square(Terrains,\ int,\ int)
+comment2.params=
+comment2.target=int\ GetDomino()
+comment3.params=
+comment3.target=int\ GetCrown()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

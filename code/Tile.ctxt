@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Tile
+comment0.text=\r\n\ \ \ \ Description\:\r\n\ \ \ \ \ \ \ \ The\ Parent\ for\ the\ Starting\ Tile\ and\ Squares\r\n
+comment1.params=terrain
+comment1.target=Tile(Terrains)
+comment2.params=
+comment2.target=Terrains\ GetTerrain()
+numComments=3
