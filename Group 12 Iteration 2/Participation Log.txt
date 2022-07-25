@@ -1,0 +1,5 @@
+I Prosper Manyele worked on The Overall Class Diagram
+I Ujjwal Singla worked on The Sequence Diagram "Change Display Settings"
+I Abdelrahman Ahmed worked on The Use Case "Chaning Player Settings"
+I Saad Equbal Syed worked on The Use Case "Change Display Settings"
+I Ekuyik Nyong Essien worked on The Sequence Diagram "Change Player Settings"
