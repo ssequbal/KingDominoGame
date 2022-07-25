@@ -1,0 +1,5 @@
+I Prosper Manyele worked on The Use Case Description and UI Prototype Sketch of the Use Case "Set Up a Game"
+I Ujjwal Singla worked on The Use Case Description and UI Prototype Sketch of the Use Case "Take a turn"
+I Abdelrahman Ahmed worked on the Vision Statement and the 4 Brief cases.
+I Saad Equbal Syed worked on Data Dictionary and List of Actors.
+I Ekuyik Nyong Essien worked on the Domain Model
